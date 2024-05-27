@@ -9,6 +9,6 @@ public class User {
         this.name = name;
         this.description = description;
         this.id = id;
-        this.followed = followed;
+        this.followed =  followed;
     }
 }
