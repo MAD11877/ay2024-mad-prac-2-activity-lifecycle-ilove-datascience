@@ -1,4 +1,4 @@
-package sg.edu.np.mad.practical2;
+package sg.edu.np.mad.madpractical2;
 
 public class User {
     public String name;
@@ -9,6 +9,6 @@ public class User {
         this.name = name;
         this.description = description;
         this.id = id;
-        this.followed = followed;
+        this.followed =  followed;
     }
 }
